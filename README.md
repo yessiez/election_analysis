@@ -32,7 +32,7 @@ After submitting the election audit results, the election commission has request
 ```
 1. Calculate the voter turnout for each county.
 2. Calculate the percentage of votes from each county out of the total count.
-3. Determine the county with the highest turnout.
+3. Determine the county with the highest turnout. 
 ```
 ### Overview of Election Audit
 
