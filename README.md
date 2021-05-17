@@ -46,6 +46,9 @@ After submitting the election audit results, the election commission has request
 8. Determine the county with the highest turnout. </code> 
 
 ## Challenge Summary
+
+![Election Results](https://github.com/yessiez/election_analysis/blob/master/Resources/Image%205-15-21%20at%2011.10%20PM.jpg?raw=true)
+
 ### Election Audit Results
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
@@ -70,7 +73,6 @@ The analysis of the election show that:
 - The county with the largest turnout:
     - Denver, which received received 82.8% of the vote and 306,055 number of votes.
 
-![Election Results](https://github.com/yessiez/election_analysis/blob/master/Resources/Image%205-15-21%20at%2011.10%20PM.jpg?raw=true)
 
 ### Election-Audit Summary
 This script can be used for any election by making some modifications to the script. One way this can be used in other elections is to collect election data in a similar format containing 'Ballot ID', 'County', and 'Candidate', download and import election data, and change the path and file to load and run the script. Another way to continue and modify this script for future use is to update the .csv file and incorporate demorgraphic information to make deeper analyses. 
